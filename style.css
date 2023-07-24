@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+  }
+.button-section button{
+    padding: 0.5em 1em;
+    background: #3cb371;
+    color:#ffffff;
+    border-bottom: solid 4px #006400;
+}
+img{
+    width: auto;
+    height: 330px;
+}
